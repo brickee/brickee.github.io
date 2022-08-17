@@ -5,12 +5,20 @@
     <link>https://brickee.github.io/publication-type/1/</link>
       <atom:link href="https://brickee.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brickee.github.io/media/icon_hu4e249f7f5e891da5deef9405448e4eef_20107_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://brickee.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Crossroads, Buildings and Neighborhoods: A Dataset for Fine-grained Location Recognition</title>
+      <link>https://brickee.github.io/publication/chen-etal-2022-crossroads/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://brickee.github.io/publication/chen-etal-2022-crossroads/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Explicitly Capturing Relations between Entity Mentions via Graph Neural Networks for Domain-specific Named Entity Recognition</title>
