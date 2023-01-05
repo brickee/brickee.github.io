@@ -5,7 +5,7 @@
     <link>https://brickee.github.io/publication/</link>
       <atom:link href="https://brickee.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://brickee.github.io/media/icon_hu4e249f7f5e891da5deef9405448e4eef_20107_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Crossroads, Buildings and Neighborhoods: A Dataset for Fine-grained Location Recognition</title>
-      <link>https://brickee.github.io/publication/chen-etal-2022-crossroads/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://brickee.github.io/publication/chen-etal-2022-crossroads/</guid>
+      <title>ZeroKBC: A Comprehensive Benchmark for Zero-Shot Knowledge Base Completion</title>
+      <link>https://brickee.github.io/publication/chen-2022-zerokbc/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://brickee.github.io/publication/chen-2022-zerokbc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ZeroKBC: A Comprehensive Benchmark for Zero-Shot Knowledge Base Completion</title>
-      <link>https://brickee.github.io/publication/chen-2022-zerokbc/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://brickee.github.io/publication/chen-2022-zerokbc/</guid>
+      <title>Crossroads, Buildings and Neighborhoods: A Dataset for Fine-grained Location Recognition</title>
+      <link>https://brickee.github.io/publication/chen-etal-2022-crossroads/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://brickee.github.io/publication/chen-etal-2022-crossroads/</guid>
       <description></description>
     </item>
     
