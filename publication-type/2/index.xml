@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Patrick&#39;s Website</title>
+    <link>https://brickee.github.io/publication-type/2/</link>
+      <atom:link href="https://brickee.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brickee.github.io/media/icon_hu4e249f7f5e891da5deef9405448e4eef_20107_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://brickee.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>ZeroKBC: A Comprehensive Benchmark for Zero-Shot Knowledge Base Completion</title>
+      <link>https://brickee.github.io/publication/chen-2022-zerokbc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brickee.github.io/publication/chen-2022-zerokbc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
