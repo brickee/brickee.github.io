@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yupeng Hou | Patrick&#39;s Website</title>
+    <link>https://brickee.github.io/authors/yupeng-hou/</link>
+      <atom:link href="https://brickee.github.io/authors/yupeng-hou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yupeng Hou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brickee.github.io/media/icon_hu_18445a7a0e0e90da.png</url>
+      <title>Yupeng Hou</title>
+      <link>https://brickee.github.io/authors/yupeng-hou/</link>
+    </image>
+    
+    <item>
+      <title>Mosaic-IT: Cost-Free Compositional Data Synthesis for Instruction Tuning</title>
+      <link>https://brickee.github.io/publication/li-2024-mosaic/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://brickee.github.io/publication/li-2024-mosaic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

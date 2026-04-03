@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuai Zhang | Patrick&#39;s Website</title>
+    <link>https://brickee.github.io/authors/shuai-zhang/</link>
+      <atom:link href="https://brickee.github.io/authors/shuai-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuai Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brickee.github.io/media/icon_hu_18445a7a0e0e90da.png</url>
+      <title>Shuai Zhang</title>
+      <link>https://brickee.github.io/authors/shuai-zhang/</link>
+    </image>
+    
+    <item>
+      <title>CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving</title>
+      <link>https://brickee.github.io/publication/chen-2024-comm/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://brickee.github.io/publication/chen-2024-comm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinyang Zhang | Patrick&#39;s Website</title>
+    <link>https://brickee.github.io/authors/xinyang-zhang/</link>
+      <atom:link href="https://brickee.github.io/authors/xinyang-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinyang Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brickee.github.io/media/icon_hu_18445a7a0e0e90da.png</url>
+      <title>Xinyang Zhang</title>
+      <link>https://brickee.github.io/authors/xinyang-zhang/</link>
+    </image>
+    
+    <item>
+      <title>ALERT: An LLM-powered Benchmark for Automatic Evaluation of Recommendation Explanations</title>
+      <link>https://brickee.github.io/publication/li-2025-alert/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://brickee.github.io/publication/li-2025-alert/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

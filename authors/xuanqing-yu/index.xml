@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuanqing Yu | Patrick&#39;s Website</title>
+    <link>https://brickee.github.io/authors/xuanqing-yu/</link>
+      <atom:link href="https://brickee.github.io/authors/xuanqing-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xuanqing Yu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brickee.github.io/media/icon_hu_18445a7a0e0e90da.png</url>
+      <title>Xuanqing Yu</title>
+      <link>https://brickee.github.io/authors/xuanqing-yu/</link>
+    </image>
+    
+    <item>
+      <title>ItD: Large Language Models Can Teach Themselves Induction through Deduction</title>
+      <link>https://brickee.github.io/publication/sun-2024-itd/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://brickee.github.io/publication/sun-2024-itd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

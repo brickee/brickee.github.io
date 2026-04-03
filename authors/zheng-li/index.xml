@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zheng Li | Patrick&#39;s Website</title>
+    <link>https://brickee.github.io/authors/zheng-li/</link>
+      <atom:link href="https://brickee.github.io/authors/zheng-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zheng Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brickee.github.io/media/icon_hu_18445a7a0e0e90da.png</url>
+      <title>Zheng Li</title>
+      <link>https://brickee.github.io/authors/zheng-li/</link>
+    </image>
+    
+    <item>
+      <title>Aligning Large Language Models with Implicit Preferences from User-Generated Content</title>
+      <link>https://brickee.github.io/publication/tan-2025-aligning/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://brickee.github.io/publication/tan-2025-aligning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations</title>
+      <link>https://brickee.github.io/publication/mo-2025-uniconv/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://brickee.github.io/publication/mo-2025-uniconv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hephaestus: Improving Fundamental Agent Capabilities of Large Language Models through Continual Pre-Training</title>
+      <link>https://brickee.github.io/publication/zhuang-2025-hephaestus/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://brickee.github.io/publication/zhuang-2025-hephaestus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

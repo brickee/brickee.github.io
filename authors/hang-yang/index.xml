@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hang Yang | Patrick&#39;s Website</title>
+    <link>https://brickee.github.io/authors/hang-yang/</link>
+      <atom:link href="https://brickee.github.io/authors/hang-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hang Yang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brickee.github.io/media/icon_hu_18445a7a0e0e90da.png</url>
+      <title>Hang Yang</title>
+      <link>https://brickee.github.io/authors/hang-yang/</link>
+    </image>
+    
+    <item>
+      <title>Reconstructing Event Regions for Event Extraction via Graph Attention Networks</title>
+      <link>https://brickee.github.io/publication/chen-etal-2020-reconstructing/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://brickee.github.io/publication/chen-etal-2020-reconstructing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

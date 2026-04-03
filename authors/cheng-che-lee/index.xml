@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheng-Che Lee | Patrick&#39;s Website</title>
+    <link>https://brickee.github.io/authors/cheng-che-lee/</link>
+      <atom:link href="https://brickee.github.io/authors/cheng-che-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cheng-Che Lee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brickee.github.io/media/icon_hu_18445a7a0e0e90da.png</url>
+      <title>Cheng-Che Lee</title>
+      <link>https://brickee.github.io/authors/cheng-che-lee/</link>
+    </image>
+    
+    <item>
+      <title>LongLeader: A Comprehensive Leaderboard for Large Language Models in Long-context Scenarios</title>
+      <link>https://brickee.github.io/publication/chen-2025-longleader/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://brickee.github.io/publication/chen-2025-longleader/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
