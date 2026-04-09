@@ -1,1 +1,18 @@
-{"name":"Patrick's Website","short_name":"Patrick's Website","lang":"en-us","theme_color":"#3f51b5","background_color":"#3f51b5","icons":[{"src":"/media/icon_hu_3ba551065a3047de.png","sizes":"192x192","type":"image/png"},{"src":"/media/icon_hu_18445a7a0e0e90da.png","sizes":"512x512","type":"image/png"}],"display":"standalone","start_url":"/?utm_source=web_app_manifest"}
+{
+  "name": "Patrick's Website",
+  "short_name": "Patrick's Website",
+  "lang": "en-us",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
+  "icons": [{
+    "src": "/media/icon_hu_3ba551065a3047de.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu_18445a7a0e0e90da.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
